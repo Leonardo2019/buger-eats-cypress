@@ -1,0 +1,62 @@
+
+
+{
+    "signup": {
+        "name": "Leonardo Teste",
+        "cpf": "00000000011",
+        "email": "teste@teste.com",
+        "whatsapp": "11999999999",
+
+        "address": {
+            "postalcode": "02235050",
+            "street": "Rua Abílio",
+            "number": "1000",
+            "details": "Casa 001",
+            "district": "Jardim Brasil (Zona Norte)",
+            "city_state": "São Paulo/SP"
+            },
+
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.png"
+    },
+
+    "cpf_inv": {
+        "name": "Leonardo Teste dois",
+        "cpf": "000000000AA",
+        "email": "testedois@teste.com",
+        "whatsapp": "11999999988",
+
+        "address": {
+            "postalcode": "02235050",
+            "street": "Rua Abílio",
+            "number": "1000",
+            "details": "Casa 001",
+            "district": "Jardim Brasil (Zona Norte)",
+            "city_state": "São Paulo/SP"
+            },
+
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.png"
+    },
+
+    "email_inv": {
+        "name": "Leonardo Teste",
+        "cpf": "00000000011",
+        "email": "teste.com",
+        "whatsapp": "11999999999",
+
+        "address": {
+            "postalcode": "02235050",
+            "street": "Rua Abílio",
+            "number": "1000",
+            "details": "Casa 001",
+            "district": "Jardim Brasil (Zona Norte)",
+            "city_state": "São Paulo/SP"
+            },
+
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.png"
+    }
+
+
+}
