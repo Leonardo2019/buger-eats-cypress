@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('Buger APP', ()=> {
+describe('Buger APP - Projeto Online', ()=> {
     beforeEach(() => {
         
         cy.visit('/')
